@@ -23,7 +23,7 @@
 Type | Spec | Status
 :---------|:---------|:----------
 Model Name      | HP Elitebook 840 G6 | ✅
-CPU              | Intel(R) Core(TM) i5-8365U CPU @ 1.80GHz (max 4.00Ghz) Kaby Lake R | ✅
+CPU              | Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (max 4.10Ghz) Kaby Lake R | ✅
 RAM           | 32 GB 2400 MHz DDR4 | ✅
 Internal Graphics Card | Intel® UHD Graphics 620 | ✅
 Wi-Fi             | Intel 8265 | ✅
