@@ -1,6 +1,3 @@
-# HP-EliteBook-840-G6-Hackintosh-Tahoe26.1
-
-
 <h1 align="center"> macOS Tahoe26.1 on HP EliteBook 840 G6 </h1>
 
 <p align="center">
