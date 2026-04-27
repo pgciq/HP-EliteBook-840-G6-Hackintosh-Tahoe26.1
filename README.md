@@ -1,7 +1,7 @@
 <h1 align="center"> macOS Tahoe26.1 on HP EliteBook 840 G6 </h1>
 
 <p align="center">
-  <img src="https://github.com/pgciq/HP-EliteBook-840-G6-Hackintosh-Tahoe26.1/blob/main/info.jpeg">
+  <img src="https://github.com/pgciq/HP-EliteBook-840-G6-Hackintosh-Tahoe26.1/blob/main/resources/info.jpeg">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh HP EliteBook 840 G6 </h4>
