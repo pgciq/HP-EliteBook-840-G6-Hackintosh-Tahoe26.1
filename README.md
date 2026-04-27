@@ -1,10 +1,10 @@
 # HP-EliteBook-840-G6-Hackintosh-Tahoe26.1
 
 
-<h1 align="center"> macOS on HP EliteBook 840 G5 </h1>
+<h1 align="center"> macOS Tahoe26.1 on HP EliteBook 840 G6 </h1>
 
 <p align="center">
-  <img src="https://github.com/pgciq/HP-EliteBook-840-G6-Hackintosh-Tahoe26.1/info.jpeg">
+  <img src="https://github.com/pgciq/HP-EliteBook-840-G6-Hackintosh-Tahoe26.1/blob/main/info.jpeg">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh HP EliteBook 840 G6 </h4>
@@ -121,6 +121,5 @@ SSDT-TB3.aml | Thunderbolt 3 driver assignment. | [Functional]
  - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
  - [RehabMan](https://github.com/RehabMan) for battery patches.
  - [Sniki](https://github.com/Sniki) for USB kext.
- - And anyone else that helped to develop and improve hackintoshing.
  
 
