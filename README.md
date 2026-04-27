@@ -62,7 +62,7 @@ Camera   |  ❌
  
 ## What's you have to do  💻
 
-# post install audio:
+### post install audio:
 https://github.com/chris1111/VoodooHDA-Tahoe#
 
 
